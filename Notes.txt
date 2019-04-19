@@ -1,0 +1,10 @@
+Points to be clarified from Project proposal :
+
+Rerouting requests > 
+    What's DUA
+Detecting Fault >
+    Centralized Node : 
+        What if it fails but only failure so anyways okay.
+        Tougher to prove it can handle everything??
+    Local Neighbours :
+        Need to clearly explain how it generalizes and also outline the boundary cases.

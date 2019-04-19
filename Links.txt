@@ -1,0 +1,9 @@
+https://en.wikipedia.org/wiki/OpenLDAP
+https://www.openldap.org/
+https://ldap.com/basic-ldap-concepts/
+http://courses.cs.vt.edu/~cs5204/fall05-kafura/Papers/Naming/PagesFromUnderstandingLDAP.pdf
+https://docs.oracle.com/cd/B10501_01/network.920/a96579/comtools.htm
+http://sec.cs.kent.ac.uk/x500book/Chapter.4/Chapter4.htm
+https://github.com/angrave/SystemProgramming/wiki/RPC,-Part-1:-Introduction-to-Remote-Procedure-Calls
+https://developers.google.com/protocol-buffers/docs/overview
+https://www.geeksforgeeks.org/socket-programming-python/

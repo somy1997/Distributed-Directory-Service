@@ -1,0 +1,4 @@
+Scenario on recovering :
+A dsa needs to keep a state, so that after recovery it can remember.
+On recovery, a node first needs to copy the things from the shadow and then notify (connect) the parent and children.
+A child node is simply answering the queries of masters, and clients and doesn't need to know if its primary.

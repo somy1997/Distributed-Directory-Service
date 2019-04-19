@@ -1,0 +1,18 @@
+syntax = "proto2";
+
+package dap;
+
+message ldap {
+  
+  enum Type {
+    BIND = 0;
+    QUERY = 1;
+    ADD = 2;
+    DELETE = 3;
+  }
+  
+  required Type type = 1;
+  optional int32 id = 2;
+  optional string request = 3;
+  optional string response = 4;
+}
